@@ -1,0 +1,448 @@
+{
+  "GLOBAL": "GLOBAL",
+  "sign.out": "Oturumu Kapat",
+  "delete": "Sil",
+  "cancel": "İptal",
+  "update": "Güncelle",
+  "close": "Kapat",
+  "edit": "Güncelle",
+  "noResults": "Maalesef, gösterilecek sonuç bulunmuyor.",
+  "load": "Yükleniyor...",
+  "detail": "Detay",
+  "guest": "Misafir",
+  "welcome": "PatiTracker'e Hoş Geldiniz!",
+
+  "DASHBOARD": "DASHBOARD",
+
+  "dashboard": "Panel",
+  "user.count": "Kullanıcı Sayısı",
+  "pet.type.count": "Hayvan Türü Sayısı",
+  "device.count": "Cihaz Sayısı",
+  "sim.card.count": "Sim Kart Sayısı",
+
+  "charts.title": "Kullanıldığı Alanlar",
+  "charts.updated": "Az önce güncellendi",
+  "charts.series.america": "Amerika",
+  "charts.series.asia": "Asya",
+  "charts.xLabels": {
+    "january": "Ocak",
+    "february": "Şubat",
+    "march": "Mart",
+    "april": "Nisan",
+    "may": "Mayıs",
+    "june": "Haziran",
+    "july": "Temmuz",
+    "august": "Ağustos",
+    "september": "Eylül",
+    "october": "Ekim",
+    "november": "Kasım",
+    "december": "Aralık"
+  },
+  "revenueChart": {
+    "title": "Mevcut İndirme Durumu",
+    "total": "Toplam 188",
+    "last12Months": "Son 12 ay"
+  },
+
+  "SIDEBAR": "SIDEBAR",
+  "navLinks": {
+    "home": "Panel",
+    "managers": "Yöneticiler",
+    "users": "Kullanıcılar",
+    "devices": "Cihazlar",
+    "devicesState": "Cihaz Durumu",
+    "simCards": "Sim Kartlar",
+    "pet.management": "Evcil Hayvan Yönetimi",
+    "pet.type": "Evcil Hayvan Türü",
+    "pet.breed": "Evcil Hayvan Cinsi",
+    "announcements": "Duyurular",
+    "faqs": "Sık Sorulan Sorular",
+    "terms": "Kullanım Şartları",
+    "privacy": "Gizlilik Politikası"
+  },
+
+  "announcement": {
+    "create": "Yeni Duyuru Ekle",
+    "info": "Duyuru Bilgileri",
+    "update": "Duyuru Güncellenmesi",
+    "errorLoadingAnnouncement": "Hata: Duyuru yüklenirken hata oluştu",
+    "announcements": "Duyurular",
+    "search.placeholder": "Duyuru Ara...",
+
+    "messages": {
+      "deleteSuccess": "Duyuru başarıyla silindi.",
+      "deleteFailure": "Duyuru silinirken bir hata oluştu. Lütfen tekrar deneyin.",
+      "createSuccess": "Duyuru(lar) başarıyla eklendi.",
+      "createFailure": "Duyuru eklenemedi",
+      "updateSuccess": "Duyuru(lar) başarıyla güncellendi.",
+      "updateFailure": "Duyuru güncellenemedi. Lütfen tekrar deneyin."
+    },
+    "form": {
+      "title": "Duyuru Başlığı",
+      "detail": "Duyuru Detayı",
+      "enterTitleEn": "İngilizce Başlık Giriniz",
+      "enterDetailEn": "İngilizce Detayı Giriniz",
+      "enterTitleTr": "Türkçe Başlık Giriniz",
+      "enterDetailTr": "Türkçe Detayı Giriniz"
+    },
+    "submit": {
+      "create": "Duyuru Oluştur",
+      "creating": "Oluşturuluyor..."
+    },
+    "status": {
+      "read": "Okundu",
+      "notRead": "Okunmadı",
+      "status": "Okunma Durumu"
+    }
+  },
+
+  "user": {
+    "create": "Yeni Kullanıcı Ekle",
+    "info": "Kullanıcı Bilgileri",
+    "update": "Kullanıcı Güncellenmesi",
+    "errorLoadingUser": "Hata: Kullanıcı yüklenirken hata oluştu",
+    "users": "Kullanıcılar",
+    "search.placeholder": "Kullanıcı Ara...",
+    "userName": "Kullanıcı İsmi",
+    "fullName": "Tam İsmi",
+    "email": "E-postası",
+    "phoneNumber": "Telefon Numarası",
+    "address": "Adresi",
+    "search": "Ara",
+
+    "messages": {
+      "deleteSuccess": "Kullanıcı başarıyla silindi.",
+      "deleteFailure": "Kullanıcı silinirken bir hata oluştu. Lütfen tekrar deneyin.",
+      "createSuccess": "Kullanıcı başarıyla eklendi.",
+      "createFailure": "Kullanıcı eklenemedi",
+      "updateSuccess": "Kullanıcı(lar) başarıyla güncellendi.",
+      "updateFailure": "Kullanıcı güncellenemedi. Lütfen tekrar deneyin."
+    },
+    "submit": {
+      "create": "Kullanıcı Oluştur",
+      "creating": "Oluşturuluyor..."
+    }
+  },
+
+  "device": {
+    "create": "Yeni Cihaz Ekle",
+    "info": "Cihaz Bilgileri",
+    "update": "Cihaz Güncellenmesi",
+    "errorLoadingDevice": "Hata: Cihaz yüklenirken hata oluştu",
+    "devices": "Cihazlar",
+    "search.placeholder": "Cihaz Ara...",
+
+    "messages": {
+      "deleteSuccess": "Cihaz başarıyla silindi.",
+      "deleteFailure": "Cihaz silinirken bir hata oluştu. Lütfen tekrar deneyin.",
+      "createSuccess": "Cihaz(lar) başarıyla eklendi.",
+      "createFailure": "Cihaz eklenemedi",
+      "updateSuccess": "Cihaz(lar) başarıyla güncellendi.",
+      "updateFailure": "Cihaz güncellenemedi. Lütfen tekrar deneyin."
+    },
+    "form": {
+      "deviceNumber": "Cihaz Numarası",
+      "enterDeviceNumber": "Cihaz Numarası Girin",
+      "deviceModel": "Cihaz Modeli",
+      "enterDeviceModel": "Cihaz Modelini Girin",
+      "saveToSimCard": "Sim Karta Kaydet",
+      "simNumber": "Sim Numarası",
+      "selectSimNumber": "Sim Numarası Seçin",
+      "deviceModelValid": "Cihaz modeli alan uzunluğu en fazla 20 karakter olmalıdır!",
+      "deviceNumberValid": "Cihaz numarası 15 haneli olmalıdır!",
+
+      "userName": "Kullanıcı İsmi",
+      "userEmail": "Kullanıcı E-postası",
+      "memberShipStartDate": "Üyelik Başlangıç Tarihi",
+      "memberShipEndDate": "Üyelik Bitiş Tarihi",
+      "petName": "Evcil Hayvan İsmi",
+      "deviceId": "Cihaz ID",
+      "activityState": "Aktivite Durumu",
+      "faultState": "Arıza Durumu",
+      "active": "Aktif",
+      "notActive": "Aktif Değil",
+      "faulty": "Arızalı",
+      "working": "Çalışıyor"
+    },
+    "submit": {
+      "create": "Cihaz Oluştur",
+      "creating": "Oluşturuluyor..."
+    },
+    "status": {
+      "read": "Okundu",
+      "notRead": "Okunmadı",
+      "status": "Okunma Durumu"
+    }
+  },
+  "deviceStatus": {
+    "deviceStatus": "Cihaz Durumu",
+    "search.placeholder": "Cihaz Ara...",
+    "noDevice":"Cihaz bulunamadi",
+    "deviceDetails":"Cihaz Detayları",
+    "deviceNumber":"Cihaz Numarasi",
+    "deviceBattery":"Cihaz Pil Durumu",
+    "isActive": "Aktif mi?",
+    "active": "Aktif",
+    "notActive": "Aktif Değil",
+    "faulty": "Arızalı",
+    "working": "Çalışıyor",
+    "deviceId": "Cihaz ID",
+    "activityState": "Aktivite Durumu",
+    "faultState": "Arıza Durumu",
+    "deviceWorkMode": "Çalışma Modu",
+    "detailsNotFound":"Cihaz Detayları Bulunamadı",
+    "deviceGsmSignalStrength": "GSM Sinyal Gücü",
+    "realtimeTrackingStatus": "Canlı Takip Durumu"
+  
+  },
+
+  "faq": {
+    "create": "Yeni Soru Ekle",
+    "info": "Soru Bilgileri",
+    "update": "Soru Güncellenmesi",
+    "errorLoadingFaq": "Hata: Soru yüklenirken hata oluştu",
+    "faqs": "Sorular",
+    "search.placeholder": "Soru Ara...",
+
+    "messages": {
+      "deleteSuccess": "Soru başarıyla silindi.",
+      "deleteFailure": "Soru silinirken bir hata oluştu. Lütfen tekrar deneyin.",
+      "createSuccess": "Soru(lar) başarıyla eklendi.",
+      "createFailure": "Soru eklenemedi",
+      "updateSuccess": "Soru(lar) başarıyla güncellendi.",
+      "updateFailure": "Soru güncellenemedi. Lütfen tekrar deneyin.",
+      "nothingToUpdate": "Güncellenecek bir şey yok. Lütfen tekrar deneyin veya iptal edin."
+    },
+    "form": {
+      "title": "Soru Başlığı",
+      "detail": "Soru Cevabı",
+      "enterTitle": "Soru Başlığı Giriniz",
+      "enterDetail": "Soru Detayı Giriniz",
+      "enterTitleEn": "İngilizce Başlık Giriniz",
+      "enterDetailEn": "İngilizce Detayı Giriniz",
+      "enterTitleTr": "Türkçe Başlık Giriniz",
+      "enterDetailTr": "Türkçe Detayı Giriniz"
+    },
+    "submit": {
+      "create": "Soru Oluştur",
+      "creating": "Oluşturuluyor..."
+    },
+    "status": {
+      "read": "Okundu",
+      "notRead": "Okunmadı",
+      "status": "Okunma Durumu"
+    }
+  },
+
+  "manager": {
+    "create": "Yeni Yönetici Ekle",
+    "info": "Yönetici Bilgileri",
+    "update": "Yönetici Güncellenmesi",
+    "errorLoadingManager": "Hata: Yönetici yüklenirken hata oluştu",
+    "managers": "Yöneticiler",
+    "search.placeholder": "Yönetici Ara...",
+
+    "messages": {
+      "deleteSuccess": "Yönetici başarıyla silindi.",
+      "deleteFailure": "Yönetici silinirken bir hata oluştu. Lütfen tekrar deneyin.",
+      "createSuccess": "Yönetici başarıyla eklendi.",
+      "createFailure": "Yönetici eklenemedi",
+      "updateSuccess": "Yönetici başarıyla güncellendi.",
+      "updateFailure": "Yönetici güncellenemedi. Lütfen tekrar deneyin."
+    },
+    "form": {
+      "manager.name": "Yönetici İsmi",
+      "manager.last.name": "Yönetici Soyadı",
+      "manager.email": "Yönetici E-postası",
+      "manager.password": "Şifre",
+      "manager.passwordConfirm": "Şifre Tekrar",
+      "manager.phone.number": "Yönetici Telefon Numarası",
+      "manager.address.information": "Yönetici Adres Bilgileri",
+      "city": "İl",
+      "cityName": "İl Adi",
+      "cityId": "İl ID",
+      "select.city": "İl Seçin",
+      "district": "İlçe",
+      "districtId": "İlçe ID",
+      "select.district": "İlçe seçin",
+      "isExternalRegister": "Dış Kayıt mı?",
+      "adresDescription": "Adres Bilgileri",
+      "direction": "Yön",
+      "zipCode": "Posta Kodu",
+      "phoneNumber": "Telefon Numarası",
+      "phoneCountryCode": "Ülke Telefon Kodu",
+      "phoneCountryCodeSelect": "Ülke Telefon Kodunu Seçin"
+
+
+
+
+    },
+    "submit": {
+      "create": "Yönetici Oluştur",
+      "creating": "Oluşturuluyor..."
+    }
+  },
+  "petType": {
+    "create": "Yeni Hayvan Türü Ekle",
+    "info": "Hayvan Türü Bilgileri",
+    "update": "Hayvan Türü Güncellenmesi",
+    "errorLoadingPetType": "Hata: Hayvan Türü yüklenirken hata oluştu",
+    "petTypes": " Evcil Hayvan Türü",
+    "search.placeholder": "Hayvan Türü Ara...",
+
+    "messages": {
+      "deleteSuccess": "Hayvan Türü başarıyla silindi.",
+      "deleteFailure": "Hayvan Türü silinirken bir hata oluştu. Lütfen tekrar deneyin.",
+      "createSuccess": "Hayvan Türü başarıyla eklendi.",
+      "createFailure": "Hayvan Türü eklenemedi",
+      "updateSuccess": "Hayvan Türü başarıyla güncellendi.",
+      "updateFailure": "Hayvan Türü güncellenemedi. Lütfen tekrar deneyin."
+    },
+    "form": {
+      "newPetType": "Yeni Evcil Hayvan Türü",
+      "enterPetTypeEn": "İngilizce Evcil Hayvan Türü Giriniz",
+      "enterPetTypeTr": "Türkçe Evcil Hayvan Türü Giriniz",
+      "petTypeTr": "Evcil Hayvan Tür İsmi ",
+      "petTypeEn": "Evcil Hayvan Tür İsmi (İngilizce)",
+      "typeId": "Evcil Hayvan ID",
+      "language": "Dil"
+    },
+    "submit": {
+      "create": "Hayvan Türü Oluştur",
+      "creating": "Oluşturuluyor..."
+    }
+  },
+
+  "petBreed": {
+    "create": "Yeni Hayvan Cinsi Ekle",
+    "info": "Hayvan Cinsi Bilgileri",
+    "update": "Hayvan Cinsi Güncellenmesi",
+    "errorLoadingPetBreed": "Hata: Hayvan Cinsi yüklenirken hata oluştu",
+    "petBreeds": "Evcil Hayvan Cinsi",
+    "search.placeholder": "Hayvan Cinsi Ara...",
+    "select.petType": "Evcil Hayvan Türü Seçiniz",
+
+    "messages": {
+      "deleteSuccess": "Hayvan Cinsi başarıyla silindi.",
+      "deleteFailure": "Hayvan Cinsi silinirken bir hata oluştu. Lütfen tekrar deneyin.",
+      "createSuccess": "Hayvan Cinsi başarıyla eklendi.",
+      "createFailure": "Hayvan Cinsi eklenemedi",
+      "updateSuccess": "Hayvan Cinsi başarıyla güncellendi.",
+      "updateFailure": "Hayvan Cinsi güncellenemedi. Lütfen tekrar deneyin."
+    },
+    "form": {
+      "newPetType": "Yeni Evcil Hayvan Cinsi",
+      "enterPetTypeEn": "İngilizce Evcil Hayvan Cinsi Giriniz",
+      "enterPetTypeTr": "Türkçe Evcil Hayvan Cinsi Giriniz",
+      "enterPetType": "Evcil Hayvan Cinsi Giriniz",
+      "petTypeTr": "Evcil Hayvan Cins İsmi ",
+      "enterPetAverageStepLengthEn": "Evcil Hayvan  Ortalama Adım Uzunluğu Girin",
+      "enterPetAverageStepLengthTR": "Evcil Hayvan  Ortalama Adım Uzunluğu Girin",
+
+      "petTypeEn": "Evcil Hayvan Cins İsmi (İngilizce)",
+      "typeId": "Evcil Hayvan ID",
+      "language": "Dil",
+      "averageStepLength": "Ortalama Adım Uzunluğu"
+    },
+    "submit": {
+      "create": "Hayvan Cinsi Oluştur",
+      "creating": "Oluşturuluyor..."
+    }
+  },
+  "simCard": {
+    "create": "Yeni Sim Kart Ekle",
+    "info": "Sim Kart Bilgileri",
+    "update": "Sim Kart Güncellenmesi",
+    "errorLoadingSimCard": "Hata: Sim Kart yüklenirken hata oluştu",
+    "simCards": "Sim Kartlar",
+    "search.placeholder": "Sim Kart Ara...",
+
+    "messages": {
+      "deleteSuccess": "Sim Kart başarıyla silindi.",
+      "deleteFailure": "Sim Kart silinirken bir hata oluştu. Lütfen tekrar deneyin.",
+      "createSuccess": "Sim Kart başarıyla eklendi.",
+      "createFailure": "Sim Kart eklenemedi",
+      "updateSuccess": "Sim Kart başarıyla güncellendi.",
+      "updateFailure": "Sim Kart güncellenemedi. Lütfen tekrar deneyin."
+    },
+    "form": {
+      "companyName": "Şirket Adı",
+      "apn": "Apn",
+      "countryPhoneCodeId": "Ülke telefon Kodu",
+      "phoneNumber": "Telefon Numarası",
+      "dataSize": "Hafıza Kapasitesi",
+      "registerDate": "Üyelik Başlangıç Tarihi",
+      "expirationDate": "Üyelik Bitiş Tarihi",
+      "isSimToDevice": "Cihaza Kaydet",
+      "deviceId": "Cihaz Numarası",
+      "expirationDateValid": "Son tarih, kayıt tarihinden önce olamaz!",
+
+      "placeholders": {
+        "companyName": "Şirket Adını Girin",
+        "apn": "Apn Girin",
+        "phoneNumber": "Telefon numarası 10 haneli olmalıdır",
+        "countryPhoneCodeId": "Ülke telefon Kodu Seçin",
+        "dataSize": "Hafıza Kapasitesi Seçin",
+        "deviceId": "Cihaz Numarası Seçin"
+      }
+    },
+    "submit": {
+      "create": "Sim Kart Oluştur",
+      "creating": "Oluşturuluyor..."
+    }
+  },
+
+  "login": {
+    "login": "Giriş Yap",
+    "title": "Lütfen giriş yapın.",
+    "emailLabel": "E-posta",
+    "emailPlaceholder": "E-posta adresinizi giriniz",
+    "passwordLabel": "Şifre",
+    "passwordPlaceholder": "Şifreyi giriniz",
+    "loginButton": "Giriş yap",
+    "formError": "Geçersiz e-posta veya şifre."
+  },
+
+  "terms": {
+    "update": "Kullanım Şartları Güncellenmesi",
+    "errorLoadingTerms": "Hata: Kullanım Şartları yüklenirken hata oluştu",
+    "termsOfUse": "Kullanım Şartları",
+    "search.placeholder": "Kullanım Şartları Ara...",
+
+    "messages": {
+      "deleteSuccess": "Kullanım Şartları başarıyla silindi.",
+      "deleteFailure": "Kullanım Şartları silinirken bir hata oluştu. Lütfen tekrar deneyin.",
+      "createSuccess": "Kullanım Şartları başarıyla eklendi.",
+      "createFailure": "Kullanım Şartları eklenemedi",
+      "updateSuccess": "Kullanım Şartları başarıyla güncellendi.",
+      "updateFailure": "Kullanım Şartları güncellenemedi. Lütfen tekrar deneyin."
+    },
+
+    "submit": {
+      "create": "Kullanım Şartları Oluştur",
+      "creating": "Oluşturuluyor...",
+      "loading": "Kullanım Şartları Yükleniyor..."
+    }
+  },
+  "privacy": {
+    "update": "Gizlilik Politikasi Güncellenmesi",
+    "errorLoadingTerms": "Hata: Gizlilik Politikasi yüklenirken hata oluştu",
+    "privacy": "Gizlilik Politikasi",
+    "search.placeholder": "Gizlilik Politikasi Ara...",
+
+    "messages": {
+      "deleteSuccess": "Gizlilik Politikası başarıyla silindi.",
+      "deleteFailure": "Gizlilik Politikası silinirken bir hata oluştu. Lütfen tekrar deneyin.",
+      "createSuccess": "Gizlilik Politikası başarıyla eklendi.",
+      "createFailure": "Gizlilik Politikası eklenemedi",
+      "updateSuccess": "Gizlilik Politikası başarıyla güncellendi.",
+      "updateFailure": "Gizlilik Politikası güncellenemedi. Lütfen tekrar deneyin."
+    },
+
+    "submit": {
+      "create": "Gizlilik Politikası Oluştur",
+      "creating": "Oluşturuluyor...",
+      "loading": "Gizlilik Politikası Yükleniyor..."
+    }
+  }
+}

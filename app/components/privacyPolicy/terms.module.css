@@ -1,0 +1,40 @@
+.quillEditor a {
+  text-decoration: underline !important;
+  color: blue;
+}
+.quillEditor u {
+  text-decoration: underline !important;
+  color: black !important;
+}
+
+.quillEditor b,
+.quillEditor strong {
+  font-weight: bold;
+  color: #22c55e;
+}
+
+.quillEditor ol {
+  list-style-type: decimal !important;
+  margin-left: 20px;
+  padding-left: 0;
+  color: black;
+}
+
+.quillEditor ul {
+  list-style-type: disc !important;
+  margin-left: 20px;
+  padding-left: 0;
+  color: black;
+}
+
+.quillEditor h1 {
+  font-size: 2.25rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.quillEditor h2 {
+  font-size: 1.875rem;
+  font-weight: bold;
+  margin-bottom: 0.75rem;
+}

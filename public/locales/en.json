@@ -1,0 +1,485 @@
+{
+  "GLOBAL": "GLOBAL",
+  "sign.out": "Sign Out",
+  "delete": "Delete",
+  "cancel": "Cancel",
+  "update": "Update",
+  "close": "Close",
+  "edit": "Edit",
+  "noResults": "Unfortunately, there are no results to show.",
+  "load": "Loading...",
+  "search": "Search",
+  "detail": "Detail",
+  "guest": "Guest",
+  "welcome": "Welcome to PatiTracker!",
+
+  "DASHBOARD": "DASHBOARD",
+
+  "dashboard": "Dashboard",
+  "user.count": "User Count",
+  "pet.type.count": "Pet Type Count",
+  "device.count": "Device Count",
+  "sim.card.count": "SIM Card Count",
+
+  "charts.title": "Usage Areas",
+  "charts.updated": "Updated just now",
+  "charts.series.america": "America",
+  "charts.series.asia": "Asia",
+  "charts.xLabels": {
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December"
+  },
+
+  "revenueChart": {
+    "title": "Current Download Status",
+    "total": "Total 188",
+    "last12Months": "Last 12 months"
+  },
+
+  "SIDEBAR": "SIDEBAR",
+  "navLinks": {
+    "home": "Dashboard",
+    "managers": "Managers",
+    "users": "Users",
+    "devices": "Devices",
+    "devicesState": "Device Status",
+
+    "simCards": "SIM Cards",
+    "pet.management": "Pet Management",
+    "pet.type": "Pet Type",
+    "pet.breed": "Pet Breed",
+    "announcements": "Announcements",
+    "faqs": "FAQs",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy"
+  },
+
+  "ANNOUNCEMENT": "ANNOUNCEMENT SECTION",
+
+  "announcement": {
+    "create": "Create Announcement",
+    "info": "Announcement Info",
+    "update": "Edit Announcement",
+    "errorLoadingAnnouncement": "Error loading Announcement",
+    "announcements": "Announcements",
+    "search.placeholder": "Search Announcement...",
+
+    "messages": {
+      "deleteSuccess": "Announcement deleted successfully.",
+      "deleteFailure": "Failed to delete announcement. Please try again.",
+      "createSuccess": "Announcement(s) added successfully",
+      "createFailure": "Failed to add announcement",
+      "updateSuccess": "Announcement(s) updated successfully.",
+      "updateFailure": "Failed to update announcement. Please try again."
+    },
+    "form": {
+      "title": "Announcement Title ",
+      "detail": "Announcement Details",
+      "enterTitleEn": "Enter English Announcement Title",
+      "enterDetailEn": "Enter English Announcement Detail",
+      "enterTitleTr": "Enter Turkish Announcement Title",
+      "enterDetailTr": "Enter Turkish Announcement Detail"
+    },
+    "submit": {
+      "create": "Create Announcement",
+      "creating": "Creating..."
+    },
+    "status": {
+      "read": "Read",
+      "notRead": "Not Read",
+      "status": "Read Status"
+    }
+  },
+
+  "user": {
+    "create": "Create User",
+    "info": "User Info",
+    "update": "Update User",
+    "errorLoadingAnnouncement": "Error loading  User",
+    "users": "Users",
+    "search.placeholder": "Search User...",
+    "userName": "User Name",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "address": "Address",
+
+    "messages": {
+      "deleteSuccess": "User deleted successfully.",
+      "deleteFailure": "Failed to delete user. Please try again.",
+      "createSuccess": "User added successfully",
+      "createFailure": "Failed to add user",
+      "updateSuccess": "User updated successfully.",
+      "updateFailure": "Failed to update user. Please try again."
+    },
+    "submit": {
+      "create": "Create User",
+      "creating": "Creating..."
+    }
+  },
+
+  "device": {
+    "create": "Create Device",
+    "info": "Device Info",
+    "update": "Edit Device",
+    "errorLoadingDevice": "Error loading Device",
+    "devices": "Devices",
+    "search.placeholder": "Search Device...",
+
+    "messages": {
+      "deleteSuccess": "Device deleted successfully.",
+      "deleteFailure": "Failed to delete device. Please try again.",
+      "createSuccess": "Device(s) added successfully",
+      "createFailure": "Failed to add device",
+      "updateSuccess": "Device(s) updated successfully.",
+      "updateFailure": "Failed to update device. Please try again."
+    },
+    "form": {
+      "deviceNumber": "Device Number",
+      "enterDeviceNumber": "Enter Device Number",
+      "deviceModel": "Device Model",
+      "enterDeviceModel": "Enter Device Model",
+      "saveToSimCard": "Save to Sim Card",
+      "simNumber": "Sim Number",
+      "selectSimNumber": "Select Sim Number",
+      "deviceModelValid": "The length of the device model field must be at most 20 characters!",
+      "deviceNumberValid": "The device number must be 15 digits long!",
+
+      "userName": "User Name",
+      "userEmail": "User Email",
+      "memberShipStartDate": "Membership Start Date",
+      "memberShipEndDate": "Membership End Date",
+      "petName": "Pet Name",
+      "deviceId": "Device ID",
+      "activityState": "Activity Status",
+      "faultState": "Fault Status",
+      "active": "Active",
+      "notActive": "Not Active",
+      "faulty": "Defective",
+      "working": "Working"
+    },
+    "submit": {
+      "create": "Create Device",
+      "creating": "Creating..."
+    },
+    "status": {
+      "read": "Read",
+      "notRead": "Not Read",
+      "status": "Read Status"
+    }
+  },
+  "deviceStatus": {
+  
+    "deviceStatus": "Device Status",
+    "search.placeholder": "Search Device...",
+    "noDevice":"No devices found",
+    "deviceDetails":"Device Details",
+    "deviceNumber":"Device Number",
+    "deviceBattery":"Device Battery",
+    "isActive":"Is active?",
+    "active": "Active",
+    "notActive": "Not Active",
+    "faulty": "Defective",
+    "working": "Working",
+    "deviceId": "Device ID",
+    "activityState": "Activity Status",
+    "faultState": "Fault Status",
+    "deviceWorkMode": "Device Work Mode",
+    "deviceGsmSignalStrength": "Device Gsm Signal Strength",
+    "detailsNotFound":"Details Not Found",
+    "realtimeTrackingStatus": "Canl Takip Durumu",
+
+
+
+    "messages": {
+      "deleteSuccess": "Device deleted successfully.",
+      "deleteFailure": "Failed to delete device. Please try again.",
+      "createSuccess": "Device(s) added successfully",
+      "createFailure": "Failed to add device",
+      "updateSuccess": "Device(s) updated successfully.",
+      "updateFailure": "Failed to update device. Please try again."
+    },
+    "form": {
+      "deviceNumber": "Device Number",
+      "enterDeviceNumber": "Enter Device Number",
+      "deviceModel": "Device Model",
+      "enterDeviceModel": "Enter Device Model",
+      "saveToSimCard": "Save to Sim Card",
+      "simNumber": "Sim Number",
+      "selectSimNumber": "Select Sim Number",
+      "deviceModelValid": "The length of the device model field must be at most 20 characters!",
+      "deviceNumberValid": "The device number must be 15 digits long!",
+
+      "userName": "User Name",
+      "userEmail": "User Email",
+      "memberShipStartDate": "Membership Start Date",
+      "memberShipEndDate": "Membership End Date",
+      "petName": "Pet Name"
+  
+    },
+    "submit": {
+      "create": "Create Device",
+      "creating": "Creating..."
+    },
+    "status": {
+      "read": "Read",
+      "notRead": "Not Read",
+      "status": "Read Status"
+    }
+  },
+
+  "faq": {
+    "create": "Create Question",
+    "info": "Question Info",
+    "update": "Edit Question",
+    "errorLoadingFaq": "Error loading Question",
+    "faqs": "Questions",
+    "search.placeholder": "Search Question...",
+
+    "messages": {
+      "deleteSuccess": "Question deleted successfully.",
+      "deleteFailure": "Failed to delete question. Please try again.",
+      "createSuccess": "Question(s) added successfully",
+      "createFailure": "Failed to add question",
+      "updateSuccess": "Question(s) updated successfully.",
+      "updateFailure": "Failed to update question. Please try again.",
+      "nothingToUpdate": "Nothing to update.Please try again or cancel."
+    },
+    "form": {
+      "title": "Question Title ",
+      "detail": "Question Answer",
+      "enterTitle": "Enter Question Title",
+      "enterDetail": "Enter Question Detail",
+      "enterTitleEn": "Enter English Question Title",
+      "enterDetailEn": "Enter English Question Detail",
+      "enterTitleTr": "Enter Turkish Question Title",
+      "enterDetailTr": "Enter Turkish Question Detail"
+    },
+    "submit": {
+      "create": "Create Question",
+      "creating": "Creating..."
+    },
+    "status": {
+      "read": "Read",
+      "notRead": "Not Read",
+      "status": "Read Status"
+    }
+  },
+  "manager": {
+    "create": "Create Manager",
+    "info": "Manager Info",
+    "update": "Edit Manager",
+    "errorLoadingManager": "Error loading Manager",
+    "managers": "Managers",
+    "search.placeholder": "Search Manager...",
+
+    "messages": {
+      "deleteSuccess": "Manager deleted successfully.",
+      "deleteFailure": "Failed to delete manager. Please try again.",
+      "createSuccess": "Manager added successfully",
+      "createFailure": "Failed to add manager",
+      "updateSuccess": "Manager updated successfully.",
+      "updateFailure": "Failed to update manager. Please try again."
+    },
+    "form": {
+      "manager.name": "Manager Name",
+      "manager.last.name": "Manager Last Name",
+      "manager.email": "Manager Email",
+      "manager.phone.number": "Manager Phone Number",
+      "manager.address.information": "Manager Address Information",
+      "city": "City",
+      "cityName": "City Name",
+      "manager.password": "Password",
+      "manager.passwordConfirm": "Confirm Password",
+      "cityId": "City ID",
+      "select.city": "Select City",
+      "district": "District",
+      "select.district": "Select District",
+      "isExternalRegister": "Is External Register?",
+      "adresDescription": "Address Information",
+      "direction": "direction",
+      "zipCode": "Posta Kodu",
+      "phoneNumber": "Phone Number",
+      "phoneCountryCode": "Country Phone Code",
+      "phoneCountryCodeSelect": "Select Country Phone Code"
+
+
+    },
+    "submit": {
+      "create": "Create Manager",
+      "creating": "Creating..."
+    }
+  },
+
+  "petType": {
+    "create": "Create Pet Type",
+    "info": "Pet Type Info",
+    "update": "Edit Pet Type",
+    "errorLoadingPetType": "Error loading Pet Type",
+    "petTypes": "Pet Types",
+    "search.placeholder": "Search Pet Type...",
+
+    "messages": {
+      "deleteSuccess": "Pet Type deleted successfully.",
+      "deleteFailure": "Failed to delete pet type. Please try again.",
+      "createSuccess": "Pet Type(s) added successfully",
+      "createFailure": "Failed to add pet type",
+      "updateSuccess": "Pet Type(s) updated successfully.",
+      "updateFailure": "Failed to update Pet Type. Please try again."
+    },
+    "form": {
+      "newPetType": "New Pet Type",
+      "enterPetTypeEn": "Enter Pet Type in English",
+      "enterPetTypeTr": "Enter Pet Type in Turkish",
+      "enterPetAverageStepLengthEn": "Enter Pet Average Step Length EN",
+      "enterPetAverageStepLengthTR": "Enter Pet Average Step Length TR",
+      "petTypeTr": "Pet Type Name",
+      "petTypeEn": "Pet Type Name (English)",
+      "typeId": "Pet Type ID",
+      "language": "Language"
+    },
+    "submit": {
+      "create": "Create Pet Type",
+      "creating": "Creating..."
+    }
+  },
+
+  "petBreed": {
+    "create": "Create Pet Breed",
+    "info": "Pet Breed Info",
+    "update": "Edit Pet Breed",
+    "errorLoadingPetBreed": "Error loading Pet Breed",
+    "petBreeds": "Pet Breeds",
+    "search.placeholder": "Search Pet Breed...",
+    "select.petType": "Select Pet Type",
+
+    "messages": {
+      "deleteSuccess": "Pet Breed deleted successfully.",
+      "deleteFailure": "Failed to delete pet Breed. Please try again.",
+      "createSuccess": "Pet Breed(s) added successfully",
+      "createFailure": "Failed to add pet Breed",
+      "updateSuccess": "Pet Breed(s) updated successfully.",
+      "updateFailure": "Failed to update Pet Breed. Please try again."
+    },
+    "form": {
+      "newPetType": "New Pet Breed",
+      "enterPetTypeEn": "Enter Pet Breed in English",
+      "enterPetTypeTr": "Enter Pet Breed in Turkish",
+      "enterPetType": "Enter Pet Breed",
+      "petTypeTr": "Pet Breed Name",
+      "petTypeEn": "Pet Breed Name (English)",
+      "typeId": "Pet Breed ID",
+      "language": "Language",
+      "averageStepLength": "Average Step Length"
+    },
+    "submit": {
+      "create": "Create Pet Breed",
+      "creating": "Creating..."
+    }
+  },
+
+  "simCard": {
+    "create": "Create Sim Card",
+    "info": "Sim Card Info",
+    "update": "Edit Sim Card",
+    "errorLoadingSimCard": "Error loading Sim Card",
+    "simCards": "Sim Cards",
+    "search.placeholder": "Search Sim Card...",
+
+    "messages": {
+      "deleteSuccess": "Sim Card deleted successfully.",
+      "deleteFailure": "Failed to delete Sim Card. Please try again.",
+      "createSuccess": "Sim Card(s) added successfully",
+      "createFailure": "Failed to add Sim Card",
+      "updateSuccess": "Sim Card(s) updated successfully.",
+      "updateFailure": "Failed to update Sim Card. Please try again."
+    },
+    "form": {
+      "companyName": "Company Name",
+      "apn": "Apn",
+      "countryPhoneCodeId": "Country Phone Code",
+      "phoneNumber": "Phone Number",
+      "dataSize": "Memory Capacity",
+      "registerDate": "Register Date",
+      "expirationDate": "Expiration Date",
+      "isSimToDevice": "Save to Device",
+      "deviceId": "Device Number",
+      "expirationDateValid": "Expiration date cannot be earlier than registration date!",
+      "placeholders": {
+        "companyName": "Enter Company Name",
+        "apn": "Enter Apn",
+        "phoneNumber": "Phone number should be 10 digits",
+        "countryPhoneCodeId": "Select Country Phone Code",
+        "dataSize": "Select Memory Capacity",
+        "deviceId": "Select Device Number"
+      }
+    },
+    "submit": {
+      "create": "Create Sim Card",
+      "creating": "Creating..."
+    }
+  },
+  "login": {
+    "login": "Log in",
+    "title": "Please log in to continue.",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email address",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter password",
+    "loginButton": "Log in",
+    "formError": "Invalid email or password."
+  },
+
+  "terms": {
+    "update": "Edit Terms of Use",
+    "errorLoadingTerms": "Error: An error occurred while loading the Terms of Use",
+    "termsOfUse": "Terms of Use",
+    "search.placeholder": "Search Terms of Use...",
+
+    "messages": {
+      "deleteSuccess": "Terms of Use successfully deleted.",
+      "deleteFailure": "An error occurred while deleting the Terms of Use. Please try again.",
+      "createSuccess": "Terms of Use successfully added.",
+      "createFailure": "Failed to add the Terms of Use.",
+      "updateSuccess": "Terms of Use successfully updated.",
+      "updateFailure": "Failed to update the Terms of Use. Please try again."
+    },
+
+    "submit": {
+      "create": "Create Terms of Use",
+      "creating": "Creating...",
+      "loading": "Loading Terms Of Use..."
+    }
+  },
+  "privacy": {
+    "update": "Edit Privacy Policy",
+    "errorLoadingTerms": "Error: An error occurred while loading the Privacy Policy",
+    "privacy": "Privacy Policy",
+    "search.placeholder": "Search Privacy Policy...",
+
+    "messages": {
+      "deleteSuccess": "Privacy Policy successfully deleted.",
+      "deleteFailure": "An error occurred while deleting the Privacy Policy. Please try again.",
+      "createSuccess": "Privacy Policy successfully added.",
+      "createFailure": "Failed to add the Privacy Policy.",
+      "updateSuccess": "Privacy Policy successfully updated.",
+      "updateFailure": "Failed to update the Privacy Policy. Please try again."
+    },
+
+    "submit": {
+      "create": "Create Privacy Policy",
+      "creating": "Creating...",
+      "loading": "Loading Privacy Policy..."
+    }
+  }
+}
